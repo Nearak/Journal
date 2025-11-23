@@ -1,0 +1,5 @@
+{
+  "name": "Trading Journal",
+  "description": "An application for traders to log their trades, analyze performance with statistics and charts, and track account growth. The interface is in Arabic.",
+  "requestFramePermissions": []
+}
